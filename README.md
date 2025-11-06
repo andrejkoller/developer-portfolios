@@ -10,3 +10,7 @@ A list of developer portfolios for your inspiration.
 ### A
 
 - [Andrej Koller](https://www.andrejkoller.com)
+
+### W
+
+- [Walkaisa](https://walkaisa.dev)
