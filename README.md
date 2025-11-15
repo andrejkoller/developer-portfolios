@@ -11,9 +11,17 @@ A list of developer portfolios for your inspiration.
 
 - [Andrej Koller](https://www.andrejkoller.com)
 
+### B
+
+- [Bruno Simon](https://bruno-simon.com)
+
 ### D
 
 - [Dustin Brett](https://dustinbrett.com)
+
+### J
+
+- [JHey](https://www.jhey.dev)
 
 ### O
 
