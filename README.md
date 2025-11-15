@@ -11,9 +11,17 @@ A list of developer portfolios for your inspiration.
 
 - [Andrej Koller](https://www.andrejkoller.com)
 
+### D
+
+- [Dustin Brett](https://dustinbrett.com)
+
 ### O
 
 - [Orc Dev](https://www.orcdev.com)
+
+### S
+
+- [Shadcn](https://shadcn.com)
 
 ### W
 
