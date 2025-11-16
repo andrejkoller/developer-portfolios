@@ -19,6 +19,14 @@ A list of developer portfolios for your inspiration.
 
 - [Dustin Brett](https://dustinbrett.com)
 
+### E
+
+- [Eve Kayser](https://www.evekayser.com.br)
+
+### G
+
+- [Gillian Moran](https://www.gillianmoran.com)
+
 ### J
 
 - [JHey](https://www.jhey.dev)
